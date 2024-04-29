@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas em PHP
 
-![image](img/GerenciadorDeTarefas.png)
+![gerenciador de tarefa](GerenciadorDeTarefas.png)
 
 ## Índice
 
